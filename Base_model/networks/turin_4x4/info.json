@@ -1,0 +1,21 @@
+{
+  "name": "turin_4x4",
+  "size_km": 4.0,
+  "centre_utm32n": [
+    395700,
+    4991500
+  ],
+  "junctions": 3472,
+  "pipes": 4897,
+  "edge_supply_points": 79,
+  "districts": 16,
+  "population": 104446,
+  "intact_pressure_difference_vs_full_city_m": {
+    "median": 0.585,
+    "max": 5.744
+  },
+  "sources": {
+    "water_network": "ideal_city.inp, from the thesis data of V. Tsioni, used with permission",
+    "population_density": "ISTAT, Approfondimento Torino (June 2024): 6,526 inhabitants per km2 in 2021"
+  }
+}

@@ -1,0 +1,7 @@
+mesa[rec]==3.5.0
+wntr==1.5.0
+networkx>=3.4,<4
+pandas
+matplotlib
+pytest
+six  # WNTR 1.5.0 imports six but does not declare it as a dependency.
